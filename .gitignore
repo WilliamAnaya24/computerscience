@@ -1,0 +1,4 @@
+# compiled output
+/92-dockerized/dist
+/92-dockerized/node_modules
+/92-dockerized/build
